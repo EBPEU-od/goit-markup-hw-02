@@ -2,6 +2,10 @@ B  body{
     font-family:"robot", "raleway", "sans-serif";
 }
 
+.list{
+    list-style: none;
+}
+
 .header {}
 
 .header-navigation {}
@@ -9,18 +13,14 @@ B  body{
 .header-logo {
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.16;
     /* identical to box height, or 117% */
-
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-
     /* IRIS */
-
     color: #4D5AE5;}
-
 .header-item {}
 
 .header-link {}
@@ -32,3 +32,5 @@ B  body{
 .adress-item {}
 
 .adress-link {}
+
+.hero-title {}
