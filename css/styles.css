@@ -6,7 +6,9 @@ B  body{
     list-style: none;
 }
 
-.header {}
+.header {
+    background-color: WHITE;
+}
 
 .header-navigation {}
 
@@ -33,4 +35,6 @@ B  body{
 
 .adress-link {}
 
-.hero-title {}
+.hero-title {
+    background-color: #2E2F42;
+}
