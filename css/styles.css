@@ -18,7 +18,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: var(--dark-grey, black);
-  background-color: #ffff;
+  background-color:var(--white-color);
 }
 
 /* STUDIO */
@@ -63,7 +63,7 @@ body {
 .adress-link {
   font-size: 16px;
   line-height: 1.5;
-  color: #434455;
+  color: var(--text-color);
   letter-spacing: 0.02em;
 }
 
@@ -108,7 +108,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #ffffff;
+  color: var(--white-color);
 }
 
 .adventages-title{
@@ -183,7 +183,7 @@ body {
 
 .menu-portfolio-bt {
   background: var(--light-mode);
-  border: 1px solid #e7e9fc;
+  border: 1px solid var(--accent-color);
   color: var(--hero-button-background);
   border-radius: 4px;
   font-weight: var(--font-medium);
