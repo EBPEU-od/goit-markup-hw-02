@@ -60,8 +60,6 @@ B  body{
 }
 
 .adress-link {
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
@@ -71,14 +69,11 @@ B  body{
  background: #2E2F42;
 }
 .hero-button{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.04em
+    width: 169px;
+    height: 56px;
+    left: 636px;
+    top: 428px;
+    background: #4D5AE5;
 }
 
 
@@ -108,7 +103,6 @@ B  body{
         color: #F4F4FD;
 }
 .footer-text{
-   font-weight: 400;
    font-size: 16px;
    line-height: 24px;
    letter-spacing: 0.02em;
