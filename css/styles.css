@@ -35,7 +35,7 @@ body {
   font-weight: var(--font-extra-bold);
   color: var(--hero-button-background);
   font-size: 18px;
-  line-height: 1.3;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
