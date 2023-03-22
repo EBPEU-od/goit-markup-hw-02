@@ -6,6 +6,10 @@ B  body{
     list-style: none;
 }
 
+.link {
+    text-decoration: none;
+}
+
 .header {
     background-color: WHITE;
 }
@@ -23,9 +27,12 @@ B  body{
     text-transform: uppercase;
     /* IRIS */
     color: #4D5AE5;}
-.header-item {}
+.header-item {
+    
+}
 
-.header-link {}
+.header-link {
+}
 
 .adress {}
 
@@ -36,5 +43,6 @@ B  body{
 .adress-link {}
 
 .hero-title {
-    background-color: #2E2F42;
+
+    background: #2E2F42;
 }
