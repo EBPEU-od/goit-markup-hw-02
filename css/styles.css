@@ -20,29 +20,73 @@ B  body{
     font-weight: 800;
     font-size: 18px;
     line-height: 1.16;
-    /* identical to box height, or 117% */
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    /* IRIS */
     color: #4D5AE5;}
+.logo-studio{
+    font-weight: 800;
+        font-size: 18px;
+        line-height: 21px;
+       display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    
+    
+        color: #2E2F42;
+
+}
+
 .header-item {
     
 }
 
 .header-link {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
 }
 
 .adress {}
 
 .adress-list {}
 
-.adress-item {}
+.adress-item {
+    
+}
 
-.adress-link {}
+.adress-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.02em;
+
+    /* SLATE */
+
+    color: #434455;
+}
 
 .hero-title {
+ background: #2E2F42;
+}
 
-    background: #2E2F42;
+.hero-button{
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+    
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em
+
 }
