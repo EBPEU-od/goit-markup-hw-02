@@ -71,7 +71,7 @@ body {
 .head-nav-link:focus,
 .adress-link:hover,
 .adress-link:focus {
-  color: var(--dark-grey);
+  color: var(--active-color);
 }
 
 /* MAIN */
