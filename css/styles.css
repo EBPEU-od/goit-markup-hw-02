@@ -95,8 +95,8 @@ body {
   display: none;
 }
 
-.button {
-  cursor:pointer;
+.bt {
+  cursor: pointer;
 }
 
 .hero-studio-bt,
