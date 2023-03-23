@@ -100,7 +100,7 @@ body {
 }
 
 .hero-studio-bt,
-.hero-portfolio-bt {
+.menu-portfolio-bt {
   font-family: 'Roboto', sans-serif;
   font-weight: var(--font-medium);
   background: var(--hero-button-background);
