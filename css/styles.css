@@ -133,7 +133,13 @@ body {
   text-transform: capitalize;
 }
 
-.adventages-item-ttl,
+.adventages-item-ttl{
+    font-weight: var(--text-color);
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
 .team-list-title {
   font-weight: var(--font-medium);
   font-size: 20px;
