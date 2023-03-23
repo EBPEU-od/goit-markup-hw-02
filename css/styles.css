@@ -182,7 +182,7 @@ body {
 
 /* PORTFOLIO */
 
-.menu-portfolio-bt {
+.menu-portfolio {
   background: var(--light-mode);
   border: 1px solid var(--accent-color);
   color: var(--hero-button-background);
