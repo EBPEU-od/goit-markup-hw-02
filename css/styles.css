@@ -33,7 +33,7 @@ body {
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: var(--font-extra-bold);
-  color: var(--hero-button-background);
+  color: var(--hero-button-background,--dark-grey);
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
